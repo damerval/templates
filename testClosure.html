@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+  <title>Closure Test</title>
+  <link rel="stylesheet" href="css/testClosure.css" type="text/css"/>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+  <script language="JavaScript" type="text/javascript">
+
+    function CSS(sheet) {
+
+      if (sheet.constructor.name === 'CSSStyleSheet' || sheet instanceof CSSStyleSheet)
+        this.sheet = sheet;
+      else if (sheet.constructor.name === 'HTMLStyleElement' || sheet instanceof HTMLStyleElement)
+        this.sheet = sheet.sheet;
+      else
+        throw new TypeError(sheet + ' is not a StyleSheet');
+    }
+
+    CSS.prototype = {
+      constructor: CSS,
+      add: function( cssText ) {
+        return this.sheet.insertRule(cssText, this.sheet.cssRules.length);
+      },
+      del: function(index) {
+        return this.sheet.deleteRule(index);
+      },
+      edit: function( index, cssText) {
+        var i;
+        if( index < 0 )
+          index = 0;
+        if( index >= this.sheet.cssRules.length )
+          return this.add(cssText);
+        i = this.sheet.insertRule(cssText, index);
+        if (i === index)
+          this.sheet.deleteRule(i + 1);
+        return i;
+      }
+    };
+
+    var headerStyle = new CSS(document.head.appendChild(document.createElement('style')));
+
+    var myRule = headerStyle.add(".testSquare { background-color: lightBlue }");
+
+    headerStyle.edit(myRule, ".testSquare { background-color: lightGreen }");
+
+    function changeRule() {
+      headerStyle.edit(myRule, ".testSquare { background-color: lightSalmon ");
+    }
+
+    function assignClass() {
+      $("#testElement").addClass('testSquare');
+    }
+
+    function removeRule() {
+      headerStyle.del(myRule);
+    }
+
+    function createDiv() {
+      $("body").append('<div class="testSquare">New Div</div>');
+    }
+
+  </script>
+</head>
+
+<body>
+
+  <div id="buttonRow">
+    <input type="button" value="Add rule" onclick="changeRule()"/>
+    <input type="button" value="Assign class" onclick="assignClass()"/>
+    <input type="button" value="Remove Rule" onclick="removeRule()"/>
+    <input type="button" value="Create Div" onclick="createDiv()"/>
+  </div>
+
+  <div id="bigSquare">
+    <div class="redSquare">
+      <div class="testSquare">This is text</div>
+    </div>
+  </div>
+
+  <div id="smallSquare">
+    <div id="testElement">Test Element</div>
+  </div>
+
+</body>
+
+</html>

@@ -5,7 +5,8 @@
    "scientist": "Alessandro Volta",
    "year": 1800,
    "date": "12/14/1800",
-   "YesNo": false
+   "YesNo": false,
+   "Notes": "Notes 1"
  },
  {
    "id": 2,
@@ -13,7 +14,8 @@
    "scientist": "Jean-Baptiste Lamarck",
    "year": 1802,
    "date": "1/2/1802",
-   "YesNo": false
+   "YesNo": false,
+   "Notes": "Notes 2"
  },
  {
    "id": 3,
@@ -21,7 +23,8 @@
    "scientist": "John Dalton",
    "year": 1805,
    "date": "1/8/1805",
-   "YesNo": true
+   "YesNo": true,
+   "Notes": "Notes 3"
  },
  {
    "id": 4,
@@ -29,7 +32,8 @@
    "scientist": "Carnot",
    "year": 1824,
    "date": "8/23/1824",
-   "YesNo": false
+   "YesNo": false,
+   "Notes": "Notes 4"
  },
  {
    "id": 5,
@@ -37,7 +41,8 @@
    "scientist": "Georg Ohm",
    "year": 1827,
    "date": "9/14/1827",
-   "YesNo": false
+   "YesNo": false,
+   "Notes": "Notes 5"
  },
  {
    "id": 6,
@@ -45,7 +50,8 @@
    "scientist": "Amedeo Avogadro",
    "year": 1827,
    "date": "4/1/1827",
-   "YesNo": false
+   "YesNo": false,
+   "Notes": "Notes 6"
  },
  {
    "id": 7,
@@ -53,7 +59,8 @@
    "scientist": "Nikolai Lobachevsky",
    "year": 1830,
    "date": "5/12/1830",
-   "YesNo": true
+   "YesNo": true,
+   "Notes": "Notes 7"
  },
  {
    "id": 8,
@@ -61,7 +68,8 @@
    "scientist": "Michael Faraday",
    "year": 1831,
    "date": "2/24/1831",
-   "YesNo": false
+   "YesNo": false,
+   "Notes": "Notes 8"
  },
  {
    "id": 9,
@@ -69,7 +77,8 @@
    "scientist": "Anselme Payen",
    "year": 1833,
    "date": "7/24/1833",
-   "YesNo": false
+   "YesNo": false,
+   "Notes": "Notes 9"
  },
  {
    "id": 10,
@@ -77,7 +86,8 @@
    "scientist": "Friedrich Bessel",
    "year": 1838,
    "date": "6/6/1838",
-   "YesNo": false
+   "YesNo": false,
+   "Notes": "Notes 10"
  },
  {
    "id": 11,
@@ -85,7 +95,8 @@
    "scientist": "Christian Doppler",
    "year": 1842,
    "date": "12/27/1842",
-   "YesNo": true
+   "YesNo": true,
+   "Notes": "Notes 11"
  },
  {
    "id": 12,
@@ -93,7 +104,8 @@
    "scientist": "James Prescott Joule",
    "year": 1843,
    "date": "6/30/1843",
-   "YesNo": true
+   "YesNo": true,
+   "Notes": "Notes 12"
  },
  {
    "id": 13,
@@ -101,7 +113,8 @@
    "scientist": "William Morton",
    "year": 1846,
    "date": "5/6/1846",
-   "YesNo": false
+   "YesNo": false,
+   "Notes": "Notes 13"
  },
  {
    "id": 14,
@@ -109,7 +122,8 @@
    "scientist": "Johann Gottfried Galle and Heinrich Louis d'Arrest",
    "year": 1846,
    "date": "10/9/1846",
-   "YesNo": false
+   "YesNo": false,
+   "Notes": "Notes 14"
  },
  {
    "id": 15,
@@ -117,7 +131,8 @@
    "scientist": "Lord Kelvin",
    "year": 1848,
    "date": "2/27/1848",
-   "YesNo": true
+   "YesNo": true,
+   "Notes": "Notes 15"
  },
  {
    "id": 16,
@@ -125,7 +140,8 @@
    "scientist": "Charles Darwin and Alfred Wallace",
    "year": 1859,
    "date": "10/30/1859",
-   "YesNo": true
+   "YesNo": true,
+   "Notes": "Notes 16"
  },
  {
    "id": 17,
@@ -133,7 +149,8 @@
    "scientist": "Louis Pasteur",
    "year": 1861,
    "date": "10/19/1861",
-   "YesNo": false
+   "YesNo": false,
+   "Notes": "Notes 17"
  },
  {
    "id": 18,
@@ -141,7 +158,8 @@
    "scientist": "Gregor Mendel",
    "year": 1865,
    "date": "8/9/1865",
-   "YesNo": false
+   "YesNo": false,
+   "Notes": "Notes 18"
  },
  {
    "id": 19,
@@ -149,7 +167,8 @@
    "scientist": "Rudolf Clausius",
    "year": 1865,
    "date": "6/29/1865",
-   "YesNo": false
+   "YesNo": false,
+   "Notes": "Notes 19"
  },
  {
    "id": 20,
@@ -157,7 +176,8 @@
    "scientist": "Dmitri Mendeleev",
    "year": 1869,
    "date": "3/16/1869",
-   "YesNo": true
+   "YesNo": true,
+   "Notes": "Notes 20"
  },
  {
    "id": 21,
@@ -165,7 +185,8 @@
    "scientist": "Lord Rayleigh",
    "year": 1871,
    "date": "2/30/1871",
-   "YesNo": true
+   "YesNo": true,
+   "Notes": "Notes 21"
  },
  {
    "id": 22,
@@ -173,7 +194,8 @@
    "scientist": "James Clerk Maxwell",
    "year": 1873,
    "date": "7/8/1873",
-   "YesNo": true
+   "YesNo": true,
+   "Notes": "Notes 22"
  },
  {
    "id": 23,
@@ -181,7 +203,8 @@
    "scientist": "William Crookes",
    "year": 1875,
    "date": "5/20/1875",
-   "YesNo": false
+   "YesNo": false,
+   "Notes": "Notes 23"
  },
  {
    "id": 24,
@@ -189,7 +212,8 @@
    "scientist": "Josiah Willard Gibbs",
    "year": 1876,
    "date": "10/11/1876",
-   "YesNo": false
+   "YesNo": false,
+   "Notes": "Notes 24"
  },
  {
    "id": 25,
@@ -197,7 +221,8 @@
    "scientist": "Wilhelm Conrad Röntgen",
    "year": 1895,
    "date": "2/8/1895",
-   "YesNo": true
+   "YesNo": true,
+   "Notes": "Notes 25"
  },
  {
    "id": 26,
@@ -205,7 +230,8 @@
    "scientist": "Henri Becquerel",
    "year": 1896,
    "date": "7/6/1896",
-   "YesNo": true
+   "YesNo": true,
+   "Notes": "Notes 26"
  },
  {
    "id": 27,
@@ -213,7 +239,8 @@
    "scientist": "J.J. Thomson",
    "year": 1897,
    "date": "7/19/1897",
-   "YesNo": false
+   "YesNo": false,
+   "Notes": "Notes 27"
  },
  {
    "id": 28,
@@ -221,6 +248,7 @@
    "scientist": "Max Planck",
    "year": 1900,
    "date": "3/22/1900",
-   "YesNo": false
+   "YesNo": false,
+   "Notes": "Notes 28"
  }
 ]

@@ -10,7 +10,8 @@ var discoveriesSource = {
     { name: "scientist", type: "string" },
     { name: "year", type: "string" },
     { name: "date", type: "date" },
-    { name: "YesNo", type: "bool"}
+    { name: "YesNo", type: "bool" },
+    { name: "Notes", type: 'string' }
   ],
   id: "id",
   url: ""
@@ -19,7 +20,7 @@ var discoveriesSource = {
 var discoveriesAdapter;
 
 var discoveriesColumns = [
-  { text: "Discovery Title", dataField: "discovery", width: 250 },
+  { text: "Discovery Title", dataField: "discovery", width: 200 },
   { text: "Discovered By", dataField: "scientist", width: 150 },
   { text: "Discovered In", dataField: "year", width: 100 },
   { text: "On", dataField: 'date', cellsFormat: 'MM/dd/yyyy', width: 100 },

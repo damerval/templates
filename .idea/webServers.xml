@@ -2,8 +2,11 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="4da7cf9b-a19f-445e-8154-a12a4626af96" name="LocalWeb" url="http://localhost">
-        <fileTransfer port="0" mountedRoot="E:\wamp\www" accessType="MOUNT" />
+      <webServer id="4da7cf9b-a19f-445e-8154-a12a4626af96" name="LocalWeb" url="http://localhost/study">
+        <fileTransfer port="0" mountedRoot="E:\wamp\www\study" accessType="MOUNT" />
+      </webServer>
+      <webServer id="ee8ed593-74da-4c4c-baca-2921e5226cfe" name="jnuweb" url="http://10.6.202.100/">
+        <fileTransfer port="0" mountedRoot="W:\www" accessType="MOUNT" />
       </webServer>
     </option>
   </component>

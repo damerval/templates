@@ -1,0 +1,29 @@
+﻿id,discovery,scientist,year,date,YesNo
+1,Electrochemical series and battery,Alessandro Volta,1800,12/14/1800,FALSE
+2,Teleological evolution,Jean-Baptiste Lamarck,1802,1/2/1802,FALSE
+3,Atomic Theory,John Dalton,1805,1/8/1805,TRUE
+4,Carnot cycle,Carnot,1824,8/23/1824,FALSE
+5,Ohm's law,Georg Ohm,1827,9/14/1827,FALSE
+6,Avogadro's law,Amedeo Avogadro,1827,4/1/1827,FALSE
+7,Non-Euclidean geometry,Nikolai Lobachevsky,1830,5/12/1830,TRUE
+8,Electromagnetic induction,Michael Faraday,1831,2/24/1831,FALSE
+9,"First enzyme, diastase",Anselme Payen,1833,7/24/1833,FALSE
+10,Measure of stellar parallax,Friedrich Bessel,1838,6/6/1838,FALSE
+11,Doppler effect,Christian Doppler,1842,12/27/1842,TRUE
+12,First law of thermodynamics,James Prescott Joule,1843,6/30/1843,TRUE
+13,Anesthesia,William Morton,1846,5/6/1846,FALSE
+14,Planet Neptune,Johann Gottfried Galle and Heinrich Louis d'Arrest,1846,10/9/1846,FALSE
+15,Absolute zero,Lord Kelvin,1848,2/27/1848,TRUE
+16,Theory of evolution,Charles Darwin and Alfred Wallace,1859,10/30/1859,TRUE
+17,Germ theory,Louis Pasteur,1861,10/19/1861,FALSE
+18,Mendel's laws of inheritance,Gregor Mendel,1865,8/9/1865,FALSE
+19,Entropy,Rudolf Clausius,1865,6/29/1865,FALSE
+20,Periodic table,Dmitri Mendeleev,1869,3/16/1869,TRUE
+21,Diffuse sky radiation,Lord Rayleigh,1871,2/30/1871,TRUE
+22,Theory of electromagnetism,James Clerk Maxwell,1873,7/8/1873,TRUE
+23,Crookes tube,William Crookes,1875,5/20/1875,FALSE
+24,Phase rule,Josiah Willard Gibbs,1876,10/11/1876,FALSE
+25,X-rays,Wilhelm Conrad Röntgen,1895,2/8/1895,TRUE
+26,Radioactivity,Henri Becquerel,1896,7/6/1896,TRUE
+27,Electron,J.J. Thomson,1897,7/19/1897,FALSE
+28,Planck's law of black body radiation,Max Planck,1900,3/22/1900,FALSE

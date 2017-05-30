@@ -1,0 +1,226 @@
+[
+ {
+   "id": 1,
+   "discovery": "Electrochemical series and battery",
+   "scientist": "Alessandro Volta",
+   "year": 1800,
+   "date": "12/14/1800",
+   "YesNo": false
+ },
+ {
+   "id": 2,
+   "discovery": "Teleological evolution",
+   "scientist": "Jean-Baptiste Lamarck",
+   "year": 1802,
+   "date": "1/2/1802",
+   "YesNo": false
+ },
+ {
+   "id": 3,
+   "discovery": "Atomic Theory",
+   "scientist": "John Dalton",
+   "year": 1805,
+   "date": "1/8/1805",
+   "YesNo": true
+ },
+ {
+   "id": 4,
+   "discovery": "Carnot cycle",
+   "scientist": "Carnot",
+   "year": 1824,
+   "date": "8/23/1824",
+   "YesNo": false
+ },
+ {
+   "id": 5,
+   "discovery": "Ohm's law",
+   "scientist": "Georg Ohm",
+   "year": 1827,
+   "date": "9/14/1827",
+   "YesNo": false
+ },
+ {
+   "id": 6,
+   "discovery": "Avogadro's law",
+   "scientist": "Amedeo Avogadro",
+   "year": 1827,
+   "date": "4/1/1827",
+   "YesNo": false
+ },
+ {
+   "id": 7,
+   "discovery": "Non-Euclidean geometry",
+   "scientist": "Nikolai Lobachevsky",
+   "year": 1830,
+   "date": "5/12/1830",
+   "YesNo": true
+ },
+ {
+   "id": 8,
+   "discovery": "Electromagnetic induction",
+   "scientist": "Michael Faraday",
+   "year": 1831,
+   "date": "2/24/1831",
+   "YesNo": false
+ },
+ {
+   "id": 9,
+   "discovery": "First enzyme, diastase",
+   "scientist": "Anselme Payen",
+   "year": 1833,
+   "date": "7/24/1833",
+   "YesNo": false
+ },
+ {
+   "id": 10,
+   "discovery": "Measure of stellar parallax",
+   "scientist": "Friedrich Bessel",
+   "year": 1838,
+   "date": "6/6/1838",
+   "YesNo": false
+ },
+ {
+   "id": 11,
+   "discovery": "Doppler effect",
+   "scientist": "Christian Doppler",
+   "year": 1842,
+   "date": "12/27/1842",
+   "YesNo": true
+ },
+ {
+   "id": 12,
+   "discovery": "First law of thermodynamics",
+   "scientist": "James Prescott Joule",
+   "year": 1843,
+   "date": "6/30/1843",
+   "YesNo": true
+ },
+ {
+   "id": 13,
+   "discovery": "Anesthesia",
+   "scientist": "William Morton",
+   "year": 1846,
+   "date": "5/6/1846",
+   "YesNo": false
+ },
+ {
+   "id": 14,
+   "discovery": "Planet Neptune",
+   "scientist": "Johann Gottfried Galle and Heinrich Louis d'Arrest",
+   "year": 1846,
+   "date": "10/9/1846",
+   "YesNo": false
+ },
+ {
+   "id": 15,
+   "discovery": "Absolute zero",
+   "scientist": "Lord Kelvin",
+   "year": 1848,
+   "date": "2/27/1848",
+   "YesNo": true
+ },
+ {
+   "id": 16,
+   "discovery": "Theory of evolution",
+   "scientist": "Charles Darwin and Alfred Wallace",
+   "year": 1859,
+   "date": "10/30/1859",
+   "YesNo": true
+ },
+ {
+   "id": 17,
+   "discovery": "Germ theory",
+   "scientist": "Louis Pasteur",
+   "year": 1861,
+   "date": "10/19/1861",
+   "YesNo": false
+ },
+ {
+   "id": 18,
+   "discovery": "Mendel's laws of inheritance",
+   "scientist": "Gregor Mendel",
+   "year": 1865,
+   "date": "8/9/1865",
+   "YesNo": false
+ },
+ {
+   "id": 19,
+   "discovery": "Entropy",
+   "scientist": "Rudolf Clausius",
+   "year": 1865,
+   "date": "6/29/1865",
+   "YesNo": false
+ },
+ {
+   "id": 20,
+   "discovery": "Periodic table",
+   "scientist": "Dmitri Mendeleev",
+   "year": 1869,
+   "date": "3/16/1869",
+   "YesNo": true
+ },
+ {
+   "id": 21,
+   "discovery": "Diffuse sky radiation",
+   "scientist": "Lord Rayleigh",
+   "year": 1871,
+   "date": "2/30/1871",
+   "YesNo": true
+ },
+ {
+   "id": 22,
+   "discovery": "Theory of electromagnetism",
+   "scientist": "James Clerk Maxwell",
+   "year": 1873,
+   "date": "7/8/1873",
+   "YesNo": true
+ },
+ {
+   "id": 23,
+   "discovery": "Crookes tube",
+   "scientist": "William Crookes",
+   "year": 1875,
+   "date": "5/20/1875",
+   "YesNo": false
+ },
+ {
+   "id": 24,
+   "discovery": "Phase rule",
+   "scientist": "Josiah Willard Gibbs",
+   "year": 1876,
+   "date": "10/11/1876",
+   "YesNo": false
+ },
+ {
+   "id": 25,
+   "discovery": "X-rays",
+   "scientist": "Wilhelm Conrad Röntgen",
+   "year": 1895,
+   "date": "2/8/1895",
+   "YesNo": true
+ },
+ {
+   "id": 26,
+   "discovery": "Radioactivity",
+   "scientist": "Henri Becquerel",
+   "year": 1896,
+   "date": "7/6/1896",
+   "YesNo": true
+ },
+ {
+   "id": 27,
+   "discovery": "Electron",
+   "scientist": "J.J. Thomson",
+   "year": 1897,
+   "date": "7/19/1897",
+   "YesNo": false
+ },
+ {
+   "id": 28,
+   "discovery": "Planck's law of black body radiation",
+   "scientist": "Max Planck",
+   "year": 1900,
+   "date": "3/22/1900",
+   "YesNo": false
+ }
+]

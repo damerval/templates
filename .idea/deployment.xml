@@ -5,19 +5,12 @@
       <paths name="LocalWeb">
         <serverdata>
           <mappings>
-            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="templates" local="$PROJECT_DIR$" web="/templates" />
           </mappings>
           <excludedPaths>
             <excludedPath local="true" path="$PROJECT_DIR$/lib" />
-            <excludedPath path="lib" />
+            <excludedPath path="templates\lib" />
           </excludedPaths>
-        </serverdata>
-      </paths>
-      <paths name="jnuweb">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
         </serverdata>
       </paths>
     </serverData>

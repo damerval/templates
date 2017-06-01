@@ -20,11 +20,11 @@ var discoveriesSource = {
 var discoveriesAdapter;
 
 var discoveriesColumns = [
-  { text: "Discovery Title", dataField: "discovery", width: 200 },
-  { text: "Discovered By", dataField: "scientist", width: 150 },
-  { text: "Discovered In", dataField: "year", width: 100 },
-  { text: "On", dataField: 'date', cellsFormat: 'MM/dd/yyyy', width: 100 },
-  { text: "Bool", dataField: 'YesNo', columntype: 'checkbox' }
+  { text: "Discovery Title", dataField: "discovery", width: 200, editable: false },
+  { text: "Discovered By", dataField: "scientist", width: 150, editable: false },
+  { text: "Discovered In", dataField: "year", width: 100, editable: false },
+  { text: "On", dataField: 'date', cellsFormat: 'MM/dd/yyyy', width: 100, editable: false },
+  { text: "Bool", dataField: 'YesNo', columnType: 'checkbox', editable: false }
 ];
 
 var _basicGrid;
